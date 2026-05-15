@@ -1,0 +1,170 @@
+2026-05-15 21:06:43,563 INFO app Backend starting up
+2026-05-15 21:06:43,588 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:06:43,591 INFO werkzeug  * Debugger PIN: 107-556-954
+2026-05-15 21:06:43,945 INFO app Backend starting up
+2026-05-15 21:06:43,974 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:06:43,977 INFO werkzeug  * Debugger PIN: 599-679-038
+2026-05-15 21:08:30,661 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 21:08:30,956 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 21:08:31,247 INFO app Backend starting up
+2026-05-15 21:08:31,277 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:08:31,286 INFO werkzeug  * Debugger PIN: 599-679-038
+2026-05-15 21:08:31,466 INFO app Backend starting up
+2026-05-15 21:08:31,494 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:08:31,496 INFO werkzeug  * Debugger PIN: 107-556-954
+2026-05-15 21:08:41,365 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 21:08:41,542 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 21:08:41,833 INFO app Backend starting up
+2026-05-15 21:08:41,852 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:08:41,855 INFO werkzeug  * Debugger PIN: 599-679-038
+2026-05-15 21:08:41,998 INFO app Backend starting up
+2026-05-15 21:08:42,018 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:08:42,020 INFO werkzeug  * Debugger PIN: 107-556-954
+2026-05-15 21:08:45,900 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 21:08:46,055 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 21:08:46,490 INFO app Backend starting up
+2026-05-15 21:08:46,510 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:08:46,512 INFO werkzeug  * Debugger PIN: 599-679-038
+2026-05-15 21:08:46,577 INFO app Backend starting up
+2026-05-15 21:08:46,598 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:08:46,600 INFO werkzeug  * Debugger PIN: 107-556-954
+2026-05-15 21:08:50,554 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 21:08:50,629 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 21:08:51,011 INFO app Backend starting up
+2026-05-15 21:08:51,029 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:08:51,031 INFO werkzeug  * Debugger PIN: 599-679-038
+2026-05-15 21:08:51,067 INFO app Backend starting up
+2026-05-15 21:08:51,084 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:08:51,087 INFO werkzeug  * Debugger PIN: 107-556-954
+2026-05-15 21:08:52,053 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 21:08:52,101 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 21:08:52,497 INFO app Backend starting up
+2026-05-15 21:08:52,514 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:08:52,515 INFO app Backend starting up
+2026-05-15 21:08:52,517 INFO werkzeug  * Debugger PIN: 599-679-038
+2026-05-15 21:08:52,536 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:08:52,539 INFO werkzeug  * Debugger PIN: 107-556-954
+2026-05-15 21:09:28,094 INFO app Backend starting up
+2026-05-15 21:09:28,132 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-15 21:09:28,132 INFO werkzeug [33mPress CTRL+C to quit[0m
+2026-05-15 21:09:28,135 INFO werkzeug  * Restarting with stat
+2026-05-15 21:09:28,532 INFO app Backend starting up
+2026-05-15 21:09:28,553 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:09:28,556 INFO werkzeug  * Debugger PIN: 599-679-038
+2026-05-15 21:11:38,196 INFO app Request start: POST /api/chat from 127.0.0.1 body={'session_id': 'local', 'message': 'hello'}
+2026-05-15 21:11:38,197 INFO app Request end: POST /api/chat status=200 duration=1.2ms
+2026-05-15 21:11:38,198 INFO werkzeug 127.0.0.1 - - [15/May/2026 21:11:38] "POST /api/chat HTTP/1.1" 200 -
+2026-05-15 21:11:56,868 INFO app Request start: POST /api/chat from 127.0.0.1 body=None
+2026-05-15 21:11:56,868 ERROR app Unhandled exception during request
+Traceback (most recent call last):
+  File "C:\Users\WESLEY\Pictures\telemed-chatbot\venv\Lib\site-packages\werkzeug\wrappers\request.py", line 611, in get_json
+    rv = self.json_module.loads(data)
+  File "C:\Users\WESLEY\Pictures\telemed-chatbot\venv\Lib\site-packages\flask\json\provider.py", line 187, in loads
+    return json.loads(s, **kwargs)
+           ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\WESLEY\AppData\Local\Python\pythoncore-3.14-64\Lib\json\__init__.py", line 352, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\WESLEY\AppData\Local\Python\pythoncore-3.14-64\Lib\json\decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WESLEY\AppData\Local\Python\pythoncore-3.14-64\Lib\json\decoder.py", line 361, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ~~~~~~~~~~~~~~^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\WESLEY\Pictures\telemed-chatbot\venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\WESLEY\Pictures\telemed-chatbot\venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\WESLEY\Pictures\telemed-chatbot\backend\app.py", line 55, in chat
+    data = request.get_json(force=True)
+  File "C:\Users\WESLEY\Pictures\telemed-chatbot\venv\Lib\site-packages\werkzeug\wrappers\request.py", line 620, in get_json
+    rv = self.on_json_loading_failed(e)
+  File "C:\Users\WESLEY\Pictures\telemed-chatbot\venv\Lib\site-packages\flask\wrappers.py", line 214, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\WESLEY\Pictures\telemed-chatbot\venv\Lib\site-packages\werkzeug\wrappers\request.py", line 645, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-05-15 21:11:56,922 INFO werkzeug 127.0.0.1 - - [15/May/2026 21:11:56] "[35m[1mPOST /api/chat HTTP/1.1[0m" 500 -
+2026-05-15 21:45:37,742 INFO app Request start: POST /api/chat from 127.0.0.1 body={'session_id': 'local', 'message': 'hello'}
+2026-05-15 21:45:37,742 INFO app Request end: POST /api/chat status=200 duration=1.1ms
+2026-05-15 21:45:37,743 INFO werkzeug 127.0.0.1 - - [15/May/2026 21:45:37] "POST /api/chat HTTP/1.1" 200 -
+2026-05-15 21:48:21,430 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 21:58:58,869 INFO app Backend starting up
+2026-05-15 21:58:58,914 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-15 21:58:58,914 INFO werkzeug [33mPress CTRL+C to quit[0m
+2026-05-15 21:58:58,917 INFO werkzeug  * Restarting with stat
+2026-05-15 21:58:59,275 INFO app Backend starting up
+2026-05-15 21:58:59,299 WARNING werkzeug  * Debugger is active!
+2026-05-15 21:58:59,301 INFO werkzeug  * Debugger PIN: 107-556-954
+2026-05-15 22:01:36,821 INFO werkzeug  * Detected change in 'C:\\Users\\WESLEY\\Pictures\\telemed-chatbot\\backend\\app.py', reloading
+2026-05-15 22:01:36,910 INFO werkzeug  * Restarting with stat
+2026-05-15 22:01:37,286 INFO app Backend starting up
+2026-05-15 22:01:37,311 WARNING werkzeug  * Debugger is active!
+2026-05-15 22:01:37,313 INFO werkzeug  * Debugger PIN: 107-556-954
+2026-05-15 22:02:43,638 INFO app Backend starting up
+2026-05-15 22:02:43,675 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-15 22:02:43,675 INFO werkzeug [33mPress CTRL+C to quit[0m
+2026-05-15 22:02:43,677 INFO werkzeug  * Restarting with stat
+2026-05-15 22:02:44,020 INFO app Backend starting up
+2026-05-15 22:02:44,039 WARNING werkzeug  * Debugger is active!
+2026-05-15 22:02:44,041 INFO werkzeug  * Debugger PIN: 107-556-954
+2026-05-15 22:03:03,371 INFO app Request start: POST /api/chat from 127.0.0.1 body={'session_id': 'local', 'message': 'hello'}
+2026-05-15 22:03:03,372 INFO app Request end: POST /api/chat status=200 duration=0.9ms
+2026-05-15 22:03:03,373 INFO werkzeug 127.0.0.1 - - [15/May/2026 22:03:03] "POST /api/chat HTTP/1.1" 200 -
+2026-05-15 22:07:04,146 INFO app Backend starting up
+2026-05-15 22:07:04,191 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-15 22:07:04,192 INFO werkzeug [33mPress CTRL+C to quit[0m
+2026-05-15 22:07:04,194 INFO werkzeug  * Restarting with stat
+2026-05-15 22:07:04,566 INFO app Backend starting up
+2026-05-15 22:07:04,585 WARNING werkzeug  * Debugger is active!
+2026-05-15 22:07:04,588 INFO werkzeug  * Debugger PIN: 599-679-038
+2026-05-15 22:08:44,745 INFO app Request start: POST /api/chat from 127.0.0.1 body={'session_id': 'local', 'message': 'hello'}
+2026-05-15 22:08:44,746 INFO app Request end: POST /api/chat status=200 duration=1.0ms
+2026-05-15 22:08:44,748 INFO werkzeug 127.0.0.1 - - [15/May/2026 22:08:44] "POST /api/chat HTTP/1.1" 200 -
+2026-05-15 22:39:45,178 INFO app Backend starting up
+2026-05-15 22:39:45,218 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-15 22:39:45,219 INFO werkzeug [33mPress CTRL+C to quit[0m
+2026-05-15 22:39:45,221 INFO werkzeug  * Restarting with stat
+2026-05-15 22:39:45,603 INFO app Backend starting up
+2026-05-15 22:39:45,622 WARNING werkzeug  * Debugger is active!
+2026-05-15 22:39:45,625 INFO werkzeug  * Debugger PIN: 599-679-038
+2026-05-15 22:40:08,888 INFO app Request start: POST /api/chat from 127.0.0.1 body={'session_id': 'local', 'message': 'hello'}
+2026-05-15 22:40:08,889 INFO app Request end: POST /api/chat status=200 duration=0.7ms
+2026-05-15 22:40:08,891 INFO werkzeug 127.0.0.1 - - [15/May/2026 22:40:08] "POST /api/chat HTTP/1.1" 200 -
+2026-05-15 22:41:06,818 INFO app Request start: POST /api/chat from 127.0.0.1 body={'session_id': 'local', 'message': 'hello'}
+2026-05-15 22:41:06,819 INFO app Request end: POST /api/chat status=200 duration=0.8ms
+2026-05-15 22:41:06,820 INFO werkzeug 127.0.0.1 - - [15/May/2026 22:41:06] "POST /api/chat HTTP/1.1" 200 -
+2026-05-15 22:50:20,060 INFO app Backend starting up
+2026-05-15 22:50:20,098 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-15 22:50:20,098 INFO werkzeug [33mPress CTRL+C to quit[0m
+2026-05-15 22:50:20,100 INFO werkzeug  * Restarting with stat
+2026-05-15 22:50:20,495 INFO app Backend starting up
+2026-05-15 22:50:20,515 WARNING werkzeug  * Debugger is active!
+2026-05-15 22:50:20,518 INFO werkzeug  * Debugger PIN: 599-679-038
+2026-05-15 22:50:36,928 INFO app Request start: POST /api/chat from 127.0.0.1 body={'session_id': 'local', 'message': 'hello'}
+2026-05-15 22:50:36,929 INFO app Request end: POST /api/chat status=200 duration=0.7ms
+2026-05-15 22:50:36,931 INFO werkzeug 127.0.0.1 - - [15/May/2026 22:50:36] "POST /api/chat HTTP/1.1" 200 -
+2026-05-15 22:52:25,356 INFO app Backend starting up
+2026-05-15 22:52:25,390 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-15 22:52:25,391 INFO werkzeug [33mPress CTRL+C to quit[0m
+2026-05-15 22:52:25,393 INFO werkzeug  * Restarting with stat
+2026-05-15 22:52:25,772 INFO app Backend starting up
+2026-05-15 22:52:25,790 WARNING werkzeug  * Debugger is active!
+2026-05-15 22:52:25,793 INFO werkzeug  * Debugger PIN: 599-679-038
+2026-05-15 22:53:00,240 INFO app Request start: POST /api/chat from 127.0.0.1 body={'session_id': 'local', 'message': 'hello'}
+2026-05-15 22:53:00,241 INFO app Request end: POST /api/chat status=200 duration=0.7ms
+2026-05-15 22:53:00,241 INFO werkzeug 127.0.0.1 - - [15/May/2026 22:53:00] "POST /api/chat HTTP/1.1" 200 -
