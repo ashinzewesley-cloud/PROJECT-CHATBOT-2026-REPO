@@ -1,0 +1,22 @@
+﻿<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>Telemed Chatbot</title></head>
+<body>
+  <h1>Telemed Chatbot</h1>
+  <div id="log">Ready. Type a message.</div>
+  <input id="msg" placeholder="Type here..."><button id="send">Send</button>
+  <script>
+    async function sendMessage(){
+      const body={session_id:"local",message:document.getElementById('msg').value};
+      try{
+        const res=await fetch("http://127.0.0.1:5000/api/chat",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+        const data=await res.json();
+        document.getElementById('log').textContent += "\\nBot: "+data.reply;
+      }catch(e){document.getElementById('log').textContent += "\\nError: "+e.message;}
+      document.getElementById('msg').value="";
+    }
+    document.getElementById('send').addEventListener('click',sendMessage);
+    document.getElementById('msg').addEventListener('keydown',e=>{if(e.key==='Enter')sendMessage();});
+  </script>
+</body>
+</html>
