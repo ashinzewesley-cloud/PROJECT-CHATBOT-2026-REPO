@@ -70,3 +70,6 @@ def chat():
 
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=5000, debug=True)
+@app.route("/health", methods=["GET"])
+def health():
+    return {"status":"ok"}, 200
