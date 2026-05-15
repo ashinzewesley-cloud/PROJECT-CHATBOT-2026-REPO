@@ -1,0 +1,5 @@
+﻿{"id":"1","prompt":"Patient: I have a sore throat and fever. What should I do?","response":"Ask about duration, advise rest, fluids, and seek care if severe."}
+{"id":"2","prompt":"Patient: I feel dizzy when I stand up.","response":"Ask about medications, orthostatic symptoms, advise hydration and follow-up."}
+{"id":"3","prompt":"Patient: My child has a rash and is itchy.","response":"Ask about distribution, fever, exposures; recommend topical care and escalate if systemic."}
+{"id":"4","prompt":"Patient: I missed my insulin dose.","response":"Ask last dose time, blood sugar, advise safe correction and contact provider."}
+{"id":"5","prompt":"Patient: I have chest pain while exercising.","response":"Urgent: advise to stop activity and seek emergency care immediately."}
